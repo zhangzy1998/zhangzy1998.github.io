@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ZZY&#39;s BLOG</title>
+  <title>郑扬の博客</title>
   
-  
+  <subtitle>知行合一</subtitle>
   <link href="http://zzy98.live/atom.xml" rel="self"/>
   
   <link href="http://zzy98.live/"/>
-  <updated>2022-09-18T14:28:42.228Z</updated>
+  <updated>1985-10-26T08:15:00.000Z</updated>
   <id>http://zzy98.live/</id>
   
   <author>
@@ -17,30 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>firstblog</title>
-    <link href="http://zzy98.live/2022/09/18/firstblog/"/>
-    <id>http://zzy98.live/2022/09/18/firstblog/</id>
-    <published>2022-09-18T14:25:38.000Z</published>
-    <updated>2022-09-18T14:28:42.228Z</updated>
-    
-    <content type="html"><![CDATA[<p>hello,这是我的第一篇博客。通过一晚上的努力终于建立了自己的个人博客网站，非常开心哈哈哈！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;hello,这是我的第一篇博客。通过一晚上的努力终于建立了自己的个人博客网站，非常开心哈哈哈！&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://zzy98.live/2022/09/18/hello-world/"/>
-    <id>http://zzy98.live/2022/09/18/hello-world/</id>
+    <link href="http://zzy98.live/uncategorized/hello-world"/>
+    <id>http://zzy98.live/uncategorized/hello-world</id>
     <published>2022-09-18T11:37:54.659Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
