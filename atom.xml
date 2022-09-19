@@ -6,7 +6,7 @@
   <link href="http://zzy98.live/atom.xml" rel="self"/>
   
   <link href="http://zzy98.live/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2022-09-18T14:28:42.228Z</updated>
   <id>http://zzy98.live/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>firstblog</title>
+    <link href="http://zzy98.live/uncategorized/firstblog"/>
+    <id>http://zzy98.live/uncategorized/firstblog</id>
+    <published>2022-09-18T14:25:38.000Z</published>
+    <updated>2022-09-18T14:28:42.228Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello,这是我的第一篇博客。通过一晚上的努力终于建立了自己的个人博客网站，非常开心哈哈哈！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello,这是我的第一篇博客。通过一晚上的努力终于建立了自己的个人博客网站，非常开心哈哈哈！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
